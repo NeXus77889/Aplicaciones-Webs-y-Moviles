@@ -11,3 +11,11 @@ el enfoque de la materia está basado en:
 - Construcción progresiva de aplicaicones reales
 - Trabajo colaborativo
 - Resolucion de problemas
+
+  
+## Objetivos de la asignatura
+al finalizar el curso el estudiante será capaz de:
+- Crear interfaces funcionales
+- Aplicar Logica mediante Java Script
+- Diseñar Interfaces personales
+- 
